@@ -1,1 +1,1 @@
-# Password Generator Starter Code
+# Password Generator project for UCLA coding bootcamp. This project takes in a variety of password criteria from the user (include special characters, what length, etc) and generates a random password that meets those qualifications. 
